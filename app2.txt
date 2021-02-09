@@ -1,8 +1,0 @@
-// //Working with Modules.
-// Shows how actually modules work.
-// const tutorial = require('./tutorial.js')
-// console.log(tutorial);
-// // console.log(tutorial(100000000000000000,19898888888));
-// console.log(tutorial.sum(3,4));
-// console.log(tutorial.PI);
-// console.log(new tutorial.SomeMathObject());
